@@ -3,7 +3,7 @@
  $name=$_POST["name"];
  $from=$_POST["email"];
  $msg=$_POST["message"];
- $receiver="zoltan@galaz.eu";
+ $receiver="kronzetticook@gmail.com";
  $subject="Let's get in touch";
 
 $message = "
@@ -14,7 +14,7 @@ $message = "
 <body>
 <table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'>
   <tr>
-    <td colspan='2' align='center' valign='top'><img src='http://zoltan.galaz.eu/images/logo.png' width='140' height='140'></td>
+    <td colspan='2' align='center' valign='top'><img src='#' width='140' height='140'></td>
   </tr>
   <tr>
     <td width='50%' align='right'>&nbsp;</td>
